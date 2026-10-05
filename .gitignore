@@ -1,3 +1,6 @@
 .DS_Store
 *.gguf
 *.gguf.part
+.agents
+.claude
+skills-lock.json
